@@ -1,0 +1,7 @@
+[25-May-2019 12:12:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:16:33 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:17:10 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:18:47 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:19:21 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:19:33 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
+[25-May-2019 12:21:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/listagem/rel01/rel_p.php on line 33
