@@ -1,0 +1,195 @@
+body,td,th {
+	font-family: "Open Sans", sans-serif;
+	}
+
+    .file-title {
+        color: #114a66;
+        margin: -5px 0 10px;
+        font-size: 1.2em;
+        font: bold;
+    }
+	
+	.panel.panel-custom {
+	background:#fafaf5;
+	color:#114a66 !important;
+	border:3px solid #114a66;
+	border-radius:20px;
+	}
+	
+	.panel.panel-custom2 {
+	background:#114a66;
+	color:black !important;
+	border:3px solid #114a66;
+	border-radius:20px;
+	}
+	.panel.panel-custom3 {
+	background:transparent;
+	color:#666;
+	border:3px solid transparent;
+	border-radius:20px;
+	}
+	
+	
+	.px {
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	margin-top : 2px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	}
+	.texto {
+	color : black;
+	margin-top : 1px;
+	padding-bottom : 1px;
+	margin-bottom : 1px;
+	margin-left : 1px;
+	margin-right : 1px;
+	font-size : 12px;
+	font-family : Tahoma,Verdana,Arial;
+	}
+	
+	.texto_requerimento {
+	color : black;
+	line-height: 200%;
+	margin-top : 1px;
+	padding-bottom : 1px;
+	margin-bottom : 1px;
+	margin-left : 1px;
+	margin-right : 1px;
+	font-size : 16px;
+	font-family : Tahoma,Verdana,Arial;
+	}
+	
+	.texto_titulo {
+	color : black;
+	margin-top : 1px;
+	padding-bottom : 1px;
+	margin-bottom : 1px;
+	margin-left : 1px;
+	margin-right : 1px;
+	font-size : 22px;
+	font-style:italic;
+	font-family : Tahoma,Verdana,Arial;
+	}
+
+    /* Aurélio css */
+
+    .hide {
+        display: none;
+    }
+
+    .modal-form {
+        margin: 0 15px 20px 15px;
+        background-color: #eee;
+        border: 1.4px solid #114a66;
+        box-shadow: none;
+        padding: 10px;
+        position: relative;
+    }
+
+    .modal-table {
+        margin: 0 0 20px 0;
+        box-shadow: none;
+        padding: 10px;
+        position: relative;
+    }
+
+    .btn-search {
+        color: #FFF;
+        background: #114a66;
+        width: 100%;
+        margin: 7px 0;
+    
+    }
+
+    .btn-search:hover {
+        color: white;
+        background: #11618a;
+        font-weight: bold;
+    }
+
+    .personal-thead {
+        color: white;
+        background: #114a66;
+        height: 50px;
+    }
+
+    .personal-thead th {
+        font-weight: normal;
+    }
+
+    .personal-tbody {
+        height: 90px;
+        
+    }
+
+    .align-center {
+        display: table-cell;
+        vertical-align: middle!important;
+        text-align: center;
+    }
+
+    .btn-save {
+        margin-top: 30px;
+        color: #FFF;
+        background: #114a66;
+        width: 100%;
+    }
+
+    .btn-save:hover {
+        color: white;
+        background: #11618a;
+        font-weight: bold;
+    }
+
+    .download {
+        margin-right: 15px;
+    }
+
+    .download, .delete {
+        color: #000;
+        font-size: 2em;
+    }
+
+    .download:hover {
+        color: #28a745;
+    }
+
+    .delete:hover {
+        color: #dc3545;
+    }
+
+    .new-file {
+        margin-top: 8px;
+        margin-right: 8px;
+        float: right;
+        font-weight: bold;
+        color: #11618a;
+        border: 1px solid #11618a;
+    }
+
+    .new-file:hover {
+        color: white;
+        background: #11618a;
+    }
+
+    @media(max-width: 990px) {
+        .new-file {
+            float: none;
+            display: block;
+            margin-bottom: 20px;
+        }
+    }
+
+    @media(max-width: 560px) {
+
+        /* .downolad, .delete {
+            display: block;
+        } */
+        .download {
+            margin-right: 0;
+        }
+    }

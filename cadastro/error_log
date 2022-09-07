@@ -1,0 +1,3 @@
+[06-May-2019 21:35:15 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/cadastro/index.php on line 188
+[06-May-2019 21:35:15 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/cadastro/index.php on line 188
+[06-May-2019 21:37:56 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/cadastro/index.php on line 188

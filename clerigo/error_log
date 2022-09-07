@@ -1,0 +1,95 @@
+[28-Jun-2019 16:22:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[28-Jun-2019 16:22:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[28-Jun-2019 16:22:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[28-Jun-2019 16:22:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[28-Jun-2019 16:23:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 142
+[28-Jun-2019 16:23:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 143
+[28-Jun-2019 16:23:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 144
+[28-Jun-2019 16:23:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 145
+[28-Jun-2019 16:32:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 142
+[28-Jun-2019 16:32:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 143
+[28-Jun-2019 16:32:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 144
+[28-Jun-2019 16:32:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 145
+[28-Jun-2019 16:52:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 142
+[28-Jun-2019 16:52:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 143
+[28-Jun-2019 16:52:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 144
+[28-Jun-2019 16:52:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 145
+[28-Jun-2019 16:57:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 142
+[28-Jun-2019 16:57:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 143
+[28-Jun-2019 16:57:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 144
+[28-Jun-2019 16:57:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel07/rel.php on line 145
+[01-Jul-2019 08:29:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 08:29:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 08:29:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 08:29:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 08:30:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[01-Jul-2019 08:30:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 08:30:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 08:30:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 08:30:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 08:30:32 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[01-Jul-2019 08:30:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 08:30:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 08:30:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 08:30:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 08:34:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 08:34:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 08:34:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 08:34:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 12:42:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 12:42:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 12:42:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 12:42:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 12:42:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 12:42:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 12:42:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 12:42:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 12:43:32 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[01-Jul-2019 12:43:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 12:43:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 12:43:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 12:43:32 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[01-Jul-2019 21:50:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[01-Jul-2019 21:50:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[01-Jul-2019 21:50:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[01-Jul-2019 21:50:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[02-Jul-2019 04:42:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[02-Jul-2019 04:42:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[02-Jul-2019 04:42:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[02-Jul-2019 04:42:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[02-Jul-2019 05:06:20 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26
+[02-Jul-2019 05:06:57 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[02-Jul-2019 05:06:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[02-Jul-2019 05:06:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[02-Jul-2019 05:06:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[02-Jul-2019 05:06:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[02-Jul-2019 05:07:02 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26
+[02-Jul-2019 05:07:46 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26
+[02-Jul-2019 05:09:37 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[02-Jul-2019 05:09:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[02-Jul-2019 05:09:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[02-Jul-2019 05:09:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[02-Jul-2019 05:09:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[02-Jul-2019 05:09:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[02-Jul-2019 05:09:54 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[02-Jul-2019 05:09:54 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[02-Jul-2019 05:09:54 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[02-Jul-2019 05:09:54 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[02-Jul-2019 05:52:56 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel03/rel.php on line 26
+[02-Jul-2019 05:52:56 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel03/rel.php on line 33
+[13-Jul-2019 15:11:33 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26
+[13-Jul-2019 15:11:39 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26
+[13-Jul-2019 15:12:13 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[13-Jul-2019 15:12:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[13-Jul-2019 15:12:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[13-Jul-2019 15:12:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[13-Jul-2019 15:12:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[13-Jul-2019 15:17:05 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 16
+[13-Jul-2019 15:17:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 152
+[13-Jul-2019 15:17:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 153
+[13-Jul-2019 15:17:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 154
+[13-Jul-2019 15:17:05 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel08/rel.php on line 155
+[13-Jul-2019 15:17:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel14/rel.php on line 16
+[13-Jul-2019 15:18:01 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel14/rel.php on line 16
+[13-Jul-2019 15:18:22 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel14/rel.php on line 16
+[16-Jul-2019 08:54:04 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/clerigo/rel02/rel.php on line 26

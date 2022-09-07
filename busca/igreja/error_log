@@ -1,0 +1,1 @@
+[09-May-2019 19:26:59 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare getUserIP() (previously declared in /home/acampamentoefrai/home/imw6ti/public_html/sei/config/meuip.php:5) in /home/acampamentoefrai/home/imw6ti/public_html/sei/config/meuip.php on line 23
