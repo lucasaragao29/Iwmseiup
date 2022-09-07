@@ -1,0 +1,1 @@
+[12-Jun-2019 18:38:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/totalizacao/rel05/rel_p.php on line 318
