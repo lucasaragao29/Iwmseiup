@@ -1,0 +1,24 @@
+﻿<?php include_once("../config/conexao.php");
+
+	$conn = mysqli_connect($host, $user, $pass, $db);
+
+	$id_categoria = $_REQUEST['id_categoria'];
+	
+	$result_sub_cat = "SELECT DISTINCT nome,regiao_id,id FROM pae_distrito WHERE regiao_id=$id_categoria ORDER BY nome";
+	$resultado_sub_cat = mysqli_query($conn, $result_sub_cat);
+	
+	while ($row_sub_cat = mysqli_fetch_assoc($resultado_sub_cat) ) {
+	$distrito  = $row_sub_cat["nome"];
+		
+	//APAGAR A PALAVRA
+	$distrito = str_replace("Distrito ", "", $distrito);
+	$distrito = utf8_encode($distrito);
+	 
+		
+		$sub_categorias_post[] = array(
+			'id'	=> $row_sub_cat['id'],
+			'nome' => $distrito,
+		);
+	}
+	
+	echo(json_encode($sub_categorias_post));

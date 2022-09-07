@@ -1,0 +1,124 @@
+[10-Jun-2019 08:46:59 America/Sao_Paulo] PHP Warning:  include(rel16/form.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 247
+[10-Jun-2019 08:46:59 America/Sao_Paulo] PHP Warning:  include(rel16/form.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 247
+[10-Jun-2019 08:46:59 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'rel16/form.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 247
+[10-Jun-2019 10:21:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 109
+[10-Jun-2019 10:21:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 110
+[10-Jun-2019 10:21:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 111
+[10-Jun-2019 10:21:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 112
+[10-Jun-2019 10:21:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 113
+[10-Jun-2019 10:22:09 America/Sao_Paulo] PHP Warning:  include(rel17/rel.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 305
+[10-Jun-2019 10:22:09 America/Sao_Paulo] PHP Warning:  include(rel17/rel.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 305
+[10-Jun-2019 10:22:09 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'rel17/rel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/index.php on line 305
+[10-Jun-2019 10:22:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 109
+[10-Jun-2019 10:22:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 110
+[10-Jun-2019 10:22:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 111
+[10-Jun-2019 10:22:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 112
+[10-Jun-2019 10:22:18 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 113
+[10-Jun-2019 10:40:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 95
+[10-Jun-2019 10:58:28 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:30 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:32 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:34 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:35 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:37 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:39 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:58:40 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:36 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:38 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:39 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:40 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:42 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:43 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:45 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 10:59:47 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 11:09:46 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 11:10:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 91
+[10-Jun-2019 11:10:23 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:25 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:27 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:29 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:30 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:32 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:33 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:10:35 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:09 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:11 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:12 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:14 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:15 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:17 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:18 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:11:19 America/Sao_Paulo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel17/rel.php on line 93
+[10-Jun-2019 11:42:31 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php on line 88
+[10-Jun-2019 11:42:31 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php on line 89
+[10-Jun-2019 11:50:58 America/Sao_Paulo] PHP Fatal error:  Cannot redeclare tirarAcentos() (previously declared in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php:96) in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php on line 96
+[10-Jun-2019 11:51:37 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php on line 17
+[10-Jun-2019 11:51:47 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel10/rel.php on line 17
+[10-Jun-2019 12:35:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 117
+[10-Jun-2019 12:35:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 118
+[10-Jun-2019 12:35:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 119
+[10-Jun-2019 12:35:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 120
+[10-Jun-2019 12:35:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 121
+[10-Jun-2019 12:36:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 117
+[10-Jun-2019 12:36:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 118
+[10-Jun-2019 12:36:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 119
+[10-Jun-2019 12:36:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 120
+[10-Jun-2019 12:36:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 121
+[10-Jun-2019 16:55:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 117
+[10-Jun-2019 16:55:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 118
+[10-Jun-2019 16:55:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 119
+[10-Jun-2019 16:55:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 120
+[10-Jun-2019 16:55:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 121
+[10-Jun-2019 18:46:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 117
+[10-Jun-2019 18:46:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 118
+[10-Jun-2019 18:46:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 119
+[10-Jun-2019 18:46:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 120
+[10-Jun-2019 18:46:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 121
+[10-Jun-2019 18:47:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 117
+[10-Jun-2019 18:47:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 118
+[10-Jun-2019 18:47:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 119
+[10-Jun-2019 18:47:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 120
+[10-Jun-2019 18:47:47 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel16/rel.php on line 121
+[12-Jun-2019 09:33:58 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel04/rel.php on line 21
+[12-Jun-2019 10:04:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel05/rel.php on line 21
+[12-Jun-2019 10:04:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel05/rel.php on line 29
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 86
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 96
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 97
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 98
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 99
+[26-Jun-2019 13:45:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 100
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 87
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 97
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 98
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 99
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 100
+[26-Jun-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 101
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 99
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 109
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 110
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 111
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 112
+[26-Jun-2019 13:47:19 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 113
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 99
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 109
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 110
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 111
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 112
+[26-Jun-2019 13:48:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 113
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 99
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 109
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 110
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 111
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 112
+[26-Jun-2019 13:50:37 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 113
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 88
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 100
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 101
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 102
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 103
+[26-Jun-2019 13:51:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 104
+[26-Jun-2019 13:53:05 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 88
+[26-Jun-2019 13:53:50 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 88
+[26-Jun-2019 13:54:09 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel01/rel.php on line 87
+[26-Jun-2019 19:09:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/acampamentoefrai/home/imw6ti/public_html/sei/grafico/rel19/form.php on line 44
